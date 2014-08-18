@@ -1,0 +1,22 @@
+.title_north{
+  background-color: #DAE7F6;
+}
+
+.table_height{
+  height: 40%;
+}
+
+.restourant_title{
+  font-size: 16px;
+  font-weight: bold;
+  padding: 5px 0px 0px 10px;
+  cursor: pointer;
+}
+
+.orderLines_total{
+  background-color: #C5C5C5;
+  background-image: -moz-linear-gradient(center top , #F9F9F9, #E3E4E6);
+  border-right: 1px solid #C5C5C5;
+  color: #000000;
+  font: 11px/13px tahoma,arial,verdana,sans-serif;
+}
